@@ -1,2 +1,2 @@
-# graduation
-毕设
+# 安徽大学本科论文latex模板
+
